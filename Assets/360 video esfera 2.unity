@@ -318,14 +318,14 @@ VideoPlayer:
   m_TargetMaterialProperty: _MainTex
   m_RenderMode: 3
   m_AspectRatio: 2
-  m_DataSource: 0
+  m_DataSource: 1
   m_PlaybackSpeed: 1
   m_AudioOutputMode: 2
   m_TargetAudioSources:
   - {fileID: 0}
   m_DirectAudioVolumes:
   - 1
-  m_Url: https://player.vimeo.com/play/746369178?s=215984159_1620699910_aa4054c1d120400e939d1ea65aa0720b&loc=external&context=Vimeo%5CController%5CClipController.main&download=1
+  m_Url: https://github.com/IvettGianella/Proyecto-360/raw/master/Assets/360%20VR%20Master%20Series%20Free%20Download%20Crystal%20Shower%20Falls.mp4
   m_EnabledAudioTracks: 01
   m_DirectAudioMutes: 00
   m_ControlledAudioTrackCount: 1
